@@ -2,6 +2,8 @@
 - 👀 I’m interested in Web Devlopment
 - 🌱 I’m currently learning Full Stack MERN Application,
 - 💞️ I’m looking for job of web Devloper,
+-    Deployed projects 1. https://infoweb.cyclic.app/
+-                      2. https://megamartapp.cyclic.app/
 - 📫 How to reach me Gmail: sushilsinghrathore1998@gmail.com
 
 <!---
