@@ -4,7 +4,7 @@
 - 💞️ I’m looking for job of web Devloper,
 -  💻  Deployed projects 1. https://echoapp.cyclic.cloud/
 -  🛒 2.https://megamartapp.cyclic.app/
--     3. https://infoweb.cyclic.app/
+-  3. https://infoweb.cyclic.app/
 - 📫 How to reach me Gmail: sushilsinghrathore1998@gmail.com
 
 <!---
