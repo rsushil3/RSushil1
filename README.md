@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RSushil1 : Sushil Singh Rathore
 - 👀 I’m interested in MERN Stack Web Devlopment
-- 🌱 I’m currently learning web sockets for real time updates in chat apps,
+- 🌱 I’m currently learning Next.Js and TypeScript,
 - 💞️ I’m looking for job of web Devloper,
 -  🚀 Deployed projects
 - 📩 1. https://echoapp.cyclic.cloud/  (Real Time Chat App)
